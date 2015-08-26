@@ -1,0 +1,29 @@
+{
+  "name": "firenze-behavior-timestamp",
+  "main": "dist/firenze-behavior-timestamp.min.js",
+  "version": "0.2.0",
+  "homepage": "https://github.com/fahad19/firenze-behavior-timestamp",
+  "authors": [
+    "Fahad Ibnay Heylaal"
+  ],
+  "description": "Timestamp behavior for firenze.js ORM",
+  "keywords": [
+    "orm",
+    "behaviors",
+    "firenze-behavior",
+    "firenze-plugin",
+    "timestamp"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "firenze": "^0.2.0",
+    "moment": "^2.10.0"
+  }
+}
