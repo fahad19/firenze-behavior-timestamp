@@ -1,7 +1,7 @@
 {
   "name": "firenze-behavior-timestamp",
   "main": "dist/firenze-behavior-timestamp.min.js",
-  "version": "0.2.0",
+  "version": "0.3.0",
   "homepage": "https://github.com/fahad19/firenze-behavior-timestamp",
   "authors": [
     "Fahad Ibnay Heylaal"
@@ -23,7 +23,7 @@
     "tests"
   ],
   "dependencies": {
-    "firenze": "^0.2.0",
+    "firenze": "^0.3.0",
     "moment": "^2.10.0"
   }
 }

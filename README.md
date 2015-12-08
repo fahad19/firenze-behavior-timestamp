@@ -64,7 +64,7 @@ var TimestampBehavior = require('firenze-behavior-timestamp');
 
 // create your Database instance...
 
-db.createCollectionClass({
+db.createCollection({
   behaviors: [
     {
       'class': TimestampBehavior,

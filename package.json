@@ -1,6 +1,6 @@
 {
   "name": "firenze-behavior-timestamp",
-  "version": "0.2.0",
+  "version": "0.3.0",
   "description": "Timestamp behavior for firenze.js ORM",
   "main": "index.js",
   "scripts": {
@@ -45,7 +45,7 @@
     "moment": "^2.10.6"
   },
   "peerDependencies": {
-    "firenze": "~0.2.0"
+    "firenze": "~0.3.0"
   },
   "devDependencies": {
     "babel": "^5.1.10",
@@ -54,7 +54,7 @@
     "doctoc": "^0.13.0",
     "docume": "^0.1.4",
     "eslint": "^0.20.0",
-    "firenze": "~0.2.0",
+    "firenze": "~0.3.0",
     "firenze-adapter-memory": "^0.2.0",
     "istanbul": "^0.3.15",
     "karma": "^0.12.36",
