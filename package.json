@@ -55,7 +55,7 @@
     "docume": "^0.1.4",
     "eslint": "^0.20.0",
     "firenze": "~0.3.0",
-    "firenze-adapter-memory": "^0.2.0",
+    "firenze-adapter-mysql": "~0.3.0",
     "istanbul": "^0.3.15",
     "karma": "^0.12.36",
     "karma-mocha": "^0.1.10",
