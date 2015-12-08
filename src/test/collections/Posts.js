@@ -17,6 +17,12 @@ module.exports = function (db) {
       },
       slug: {
         type: 'text'
+      },
+      created: {
+        type: 'datetime'
+      },
+      updated: {
+        type: 'datetime'
       }
     },
 

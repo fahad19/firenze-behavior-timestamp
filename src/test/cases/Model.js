@@ -62,7 +62,7 @@ describe('Model', function () {
 
       model.set('title', 'Hello World updated');
       model.save().then(function (m) {
-        m.get('created').should.eql('2015-01-01 12:00:00');
+        moment(m.get('created')).format('YYYY-MM-DD HH:mm:ss').should.eql('2015-01-01 12:00:00');
         m.get('updated').should.startWith(today);
         done();
       });
