@@ -42,7 +42,7 @@ let P = f.Promise;
 //
 // // create your Database instance...
 //
-// db.createCollectionClass({
+// db.createCollection({
 //   behaviors: [
 //     {
 //       'class': TimestampBehavior,
