@@ -110,7 +110,7 @@ this["firenze"] = this["firenze"] || {}; this["firenze"]["TimestampBehavior"] =
 	//
 	// // create your Database instance...
 	//
-	// db.createCollectionClass({
+	// db.createCollection({
 	//   behaviors: [
 	//     {
 	//       'class': TimestampBehavior,
